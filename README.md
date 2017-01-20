@@ -29,3 +29,6 @@ read documentation on https://help.github.com
 # create a gitignore file
 In Terminal, navigate to the location of your Git repository.
 Enter touch .gitignore to create a .gitignore file.
+
+# Ignore pull request
+close the request
